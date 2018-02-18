@@ -10,7 +10,7 @@ Our main goal was to reduce manual annotation time and because of our customizat
 	The tool automates many steps comapred to LableImg and other such tools. <br>
 	Number of clicks, assigning a tag and saving xml are all done automatically without any user intervention. <br>
 	All the images of each object class should be grouped into separate directories. If that can't be done, use our other tool AnnotationToolMultipleObjects.exe  <br> 
-	If your image set has more than one object per image, use AnnotationToolMultipleObjects.exe. <br>
+	If your image set has more than one object per image, use AnnotationToolMultipleObjects.exe. https://github.com/udaypk/FastAnnotationMultipleObjects <br>
 
 2. Prerequisites and requirements:<br>
 	a. Install MATLAB 2017a MCRInstaller.exe <br>
