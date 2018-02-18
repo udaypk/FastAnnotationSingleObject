@@ -64,7 +64,7 @@ Our main goal was to reduce manual annotation time and because of our customizat
 	\<objectName\>cat\<\/objectName\> <br>
 	Run AnnotationToolSingleObject.exe. <br>
 	Draw bounding boxes for each image. <br>
-	All the annotation files will be created in D:\MyData\2017\CatImages\VOC2012\Annotations folder <br>
+	All the annotation files will be created in C:\Data\Corpus\Cats\VOC2012\Annotations folder <br>
 	After all the cat images are completed, exit the too. <br>
 	Change the AnnotationToolSingleObjectConfig.xml file again to start annotating dog images as below: <br>
 	\<folderPath\>C:\Data\Corpus\Dogs\VOC2012\\<\/folderPath\> <br>
