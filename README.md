@@ -1,4 +1,4 @@
-# FastAnnotationSingleObject  https://youtu.be/R-rfiF2laEE
+# FastAnnotationSingleObject  https://youtu.be/Cp31IzvgYJ4
 This tool can be used to annotate large number of images (draw bounding boxes and assign label) in PASCAL VOC format very fast if the user has collected the image corpus in an organized manner and each image has only one object of interest.
 For example a car manufacturer wants to detect two models of his brand model1 and model2. All the images of model1 can be collected in one folder and model2 in another folder and thsi tool can be used on each folder sequentially to annotate the images. 
 
@@ -50,7 +50,7 @@ Our main goal was to reduce manual annotation time and because of our customizat
         Example: <objectName>cat</objectName>
 
 5. Usage Example: <br>
-        Usage video: https://youtu.be/R-rfiF2laEE  <br>
+        Usage video: https://youtu.be/Cp31IzvgYJ4  <br>
 	This tool should be used if and only if your image set contains one desired object per image. <br>
 	Your goal is build an annotated corpus for object classification for cat and dog. <br>
 	You have images that contain one cat or one dog per image. <br>
